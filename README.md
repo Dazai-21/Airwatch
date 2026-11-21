@@ -206,9 +206,5 @@ In line with the Neural Storm 2026 rules, we disclose the AI tools used:
 
 - **Claude (Anthropic):** used extensively as a coding and design assistant: architecture, Python code for the data pipeline, models, FastAPI/Streamlit app and tests, and debugging.
 - **ChatGPT (OpenAI):** used for early brainstorming and refinement of the project concept and feature descriptions.
-- [ADD ANY OTHERS: GitHub Copilot, Cursor, etc., or delete this line]
 
-We reviewed, ran and tested the generated code ourselves. [EDIT to describe your team's own contribution accurately.]
-
-## 📄 License
-[ADD A LICENSE, e.g. MIT, or remove this section]
+We reviewed, ran and tested the generated code ourselves. 
