@@ -4,21 +4,6 @@
 
 **Hackathon:** Neural Storm 2026 · **Track:** 2, Green Planet · **Problem statement:** **GP-01 – Air Quality Monitoring & Source Attribution** (extended: citizen reporting, accountability and forecasting)
 
-🔗 **Live demo:** [ADD YOUR STREAMLIT CLOUD LINK HERE]
-🎥 **Demo video / GIF:** [OPTIONAL: ADD LINK]
-
----
-
-## 👥 Team
-
-**Team name:** [YOUR TEAM NAME]
-
-| Member | Role | GitHub |
-|---|---|---|
-| [Name 1] | [e.g. ML & data] | [@username] |
-| [Name 2] | [e.g. Backend & lifecycle] | [@username] |
-| [Name 3] | [e.g. Frontend & deployment] | [@username] |
-
 ---
 
 ## 📌 Problem
