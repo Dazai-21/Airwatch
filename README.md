@@ -22,7 +22,7 @@ AirWatch connects **citizens → AI → authorities** in one loop, and adds air-
 | 🏛️ **Accountability workflow** | Moderator verification → routing to a (simulated) department → acknowledge → action → resolved. Citizens can **reopen** a fix that didn't work. Full audit trail and a public **scoreboard**. |
 | 📈 **48-hour PM2.5 forecast** | ML forecast per area with a calibrated 80% uncertainty band, threshold alerts, weather panel and "what drives the forecast". |
 | 🗺️ **Hotspot map** | PM2.5 bubbles (now / +24 h / +48 h), heat layer and citizen incidents; ranks areas where pollution is **repeatedly** elevated ("inspect first"). |
-| 🏭 **Source identification** | Estimates which sources (waste burning, construction dust, industry, traffic, crop-residue burning) likely contribute in each area, with the evidence shown, plus emission-style density maps. |
+| 🏭 **Source identification** | Estimates which sources (waste burning, construction dust, industry, traffic, crop residue burning) likely contribute in each area, with the evidence shown, plus emission-style density maps. |
 
 ## 🧭 How it works
 
